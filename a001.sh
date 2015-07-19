@@ -1,5 +1,5 @@
 #!/bin/bash
-input=
+input=input
 echo -e "please enter your name:\c"
 read $input
 echo $input
